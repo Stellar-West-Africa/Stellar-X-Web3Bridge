@@ -1,8 +1,8 @@
-# Stellar x Web3bridge Security Challenge 2025
+# Stellar WA x Web3bridge Security Challenge 2025
 
 ## Challenge Overview
 
-The Stellar x Web3bridge Builders Weekend was a security-focused challenge where participants learned to build secure smart contracts on the Stellar blockchain using Soroban. This challenge emphasized practical application of security best practices in smart contract development.
+The Stellar WA x Web3bridge Builders Weekend was a security-focused challenge where participants learned to build secure smart contracts on the Stellar blockchain using Soroban. This challenge emphasized practical application of security best practices in smart contract development.
 
 ## Challenge Theme
 
