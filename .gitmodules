@@ -1,0 +1,21 @@
+[submodule "participants/maylord"]
+	path = participants/maylord
+	url = https://github.com/7maylord/soroban_multisig.git
+[submodule "participants/stellapay"]
+	path = participants/stellapay
+	url = https://github.com/Gbangbolaoluwagbemiga/stellapay.git
+[submodule "participants/team-meta"]
+	path = participants/team-meta
+	url = https://github.com/Anuoluwapo25/Multisig-contract.git
+[submodule "participants/thompson-eregha"]
+	path = participants/thompson-eregha
+	url = https://github.com/Godbrand0/stellar.git
+[submodule "participants/timelock-savings-contract"]
+	path = participants/timelock-savings-contract
+	url = https://github.com/dmystical-coder/soroban-timelock-savings-contract.git
+[submodule "participants/bukans-team"]
+	path = participants/bukans-team
+	url = https://github.com/EbukaMoses/stellar_multi-sig.git
+[submodule "participants/ecomscrow"]
+	path = participants/ecomscrow
+	url = https://github.com/emmaglorypraise/soroban_ecommerce_escrow_contract.git
