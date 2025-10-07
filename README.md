@@ -51,5 +51,4 @@ Each participant's folder contains their smart contract code, documentation, and
 ## Resources
 
 - [Stellar Documentation](https://developers.stellar.org/)
-- [Soroban Smart Contracts](https://soroban.stellar.org/)
 - [Web3bridge](https://www.web3bridge.com/)
