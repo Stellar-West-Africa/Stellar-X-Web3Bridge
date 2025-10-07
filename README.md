@@ -1,6 +1,6 @@
-# Stellar x Web3bridge Security Challenge 2025
+# Stellar WA x Web3bridge Security Challenge 2025
 
-A collection of smart contracts developed and deployed to Stellar testnet during the security challenge between Stellar and Web3bridge.
+A collection of smart contracts developed and deployed to Stellar testnet during the security challenge between Stellar WA and Web3bridge.
 
 ## Overview
 
@@ -11,7 +11,7 @@ This repository contains submissions from participants who completed the Stellar
 - **Duration**: October 3 - 4 2025
 - **Network**: Stellar Testnet
 - **Focus**: Smart contract development and security on Stellar
-- **Organizers**: Stellar & Web3bridge
+- **Organizers**: Stellar WA & Web3bridge
 
 ## Participants
 
